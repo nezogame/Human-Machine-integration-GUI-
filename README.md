@@ -1,2 +1,2 @@
 # Human-Machine-integration-GUI-
-GUI on java with documentation created in HelpNDoc application
+GUI on java(Swing) with documentation created in HelpNDoc application
