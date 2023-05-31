@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CREATE_PARCEL_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomControls\ToogleSwitcher.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LOG_IN_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MENU_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MY_PARCELS_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PARCEL_HISTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PAY_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PROMOCODE_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REGISTRATION_WINDOW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

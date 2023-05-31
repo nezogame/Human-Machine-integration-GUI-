@@ -1,0 +1,89 @@
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.exe
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.deps.json
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.runtimeconfig.json
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.runtimeconfig.dev.json
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\ref\WF lab1.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.pdb
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.AssemblyReference.cache
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.Properties.Resources.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.REGISTRATION.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.GenerateResource.cache
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.AssemblyInfoInputs.cache
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.AssemblyInfo.cs
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.CoreCompileInputs.cache
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.dll
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\ref\WF lab1.dll
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.pdb
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.genruntimeconfig.cache
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.LOG_IN_WINDOW.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.MENU_UA_POST.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PROMOCODE_WINDOW.resources
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\WF lab1.dll.config
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PAY_WINDOW.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.CopyComplete
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.MY_PARCELS_WINDOW.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.CREATE_PARCEL_WINDOW.resources
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PARCEL_HISTORY.resources
+C:\Users\korni\source\repos\WF lab1\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\korni\source\repos\WF lab1\obj\Debug\net5.0-windows\WF_lab1.STATS.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.exe
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.dll.config
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.deps.json
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.runtimeconfig.json
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.runtimeconfig.dev.json
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\ref\WF lab1.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\WF lab1.pdb
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.AssemblyReference.cache
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.CREATE_PARCEL_WINDOW.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.LOG_IN_WINDOW.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.MENU_UA_POST.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.MY_PARCELS_WINDOW.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PARCEL_HISTORY.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PAY_WINDOW.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.PROMOCODE_WINDOW.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.Properties.Resources.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.REGISTRATION.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF_lab1.STATS.resources
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.GenerateResource.cache
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.AssemblyInfoInputs.cache
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.AssemblyInfo.cs
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.csproj.CoreCompileInputs.cache
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\ref\WF lab1.dll
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.pdb
+C:\Users\denyss\2_Course\Human-machine interaction\WF lab1\obj\Debug\net5.0-windows\WF lab1.genruntimeconfig.cache
